@@ -1,0 +1,91 @@
+p{
+	font-size: 20px;
+}
+h1{
+	text-align: center;
+}
+
+   
+.container {
+    position: relative;
+}
+
+body{
+	background-color:#2ECCFA;
+}
+
+.name {
+    position: absolute;
+    top: 8px;
+    right: 200px;
+    font-size: 18px;
+}
+
+.password {
+    position: absolute;
+    top: 8px;
+    right: 16px;
+    font-size: 18px;
+}
+.inicio{
+	position: absolute;
+    top: 8px;
+    right: 400px;
+    font-size: 18px;
+   	font-weight: bold;
+}
+.login{
+ 	position: absolute;
+    top: 90px;
+    right: 16px;
+    font-size: 18px;
+}
+.nombres{
+	position:absolute;
+
+	bottom:0;
+	right:0;
+
+}
+#logo{
+	position:absolute;
+	top:0;
+	width:200px;
+	height:200px;
+}
+
+.colaboradores{
+	position:absolute;
+	bottom:10px;
+	right:10px;
+}
+.amigos{
+	position:relative;
+	top:100px;
+	left:400px;
+
+}
+
+.mata{
+	left:400px;
+	top:50px;
+}
+
+
+
+.inicio{
+	position: absolute;
+	left:10px;
+	top:10px;
+	background-color:white;
+	height:34px;
+	width:59.17px;
+}
+.boton{
+	background-color:white;
+}
+
+
+
+
+
